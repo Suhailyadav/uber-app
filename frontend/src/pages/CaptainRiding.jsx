@@ -52,7 +52,7 @@ const CaptainRiding = () => {
               <i className="text-3xl text-gray-200 ri-arrow-up-wide-fill"></i>
             </h5>
       <h4 className='text-lg font-semibold'>4 KM away</h4>
-      <button className="p-3 px-8  bg-green-600 text-white font-semibold  rounded-lg ">Complete Ride</button>
+      <button className="p-3 px-8  bg-green-600 text-white font-semibold  rounded-lg ">Finish Ride</button>
     </div>
 
     <div ref={finishRidePanelRef} className='fixed w-full z-10 bg-white bottom-0 translate-y-full  px-3 py-10 pt-12 '>
