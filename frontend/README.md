@@ -9,7 +9,7 @@ A simple uber-like web made for better understanding of concepts of tokens, cook
 - 
 - **Responsive Design**: View in mobile for better experience
 
-Acknowlegment https://github.com/Ankur77720
+Acknowlegment [https://github.com/Ankur77720](https://github.com/Ankur77720/uber-video)
 
 ## Tech Stack
 - **Frontend**:
